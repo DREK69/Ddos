@@ -4,8 +4,8 @@ from datetime import datetime, timedelta
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "8660866355:AAGEFctiiAGIgY20GGEog_DDtWA6XF4W2JA"
-OWNER_ID = 7963568281
+TOKEN = "8701889662:AAHtC1Sw8BCC6hKbQrsXN-wT-50DwUJAXbU"
+OWNER_ID = 8842115436
 
 logging.basicConfig(format="%(asctime)s - %(levelname)s - %(message)s", level=logging.INFO)
 logger = logging.getLogger(__name__)
